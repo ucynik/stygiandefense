@@ -1,0 +1,13 @@
+{
+  "itemGroup.stygiandefense": "Example Mod Tab",
+  "block.stygiandefense.example_block": "Example Block",
+  "item.stygiandefense.example_item": "Example Item",
+
+  "stygiandefense.configuration.title": "Stygian Defense Configs",
+  "stygiandefense.configuration.section.stygiandefense.common.toml": "Stygian Defense Configs",
+  "stygiandefense.configuration.section.stygiandefense.common.toml.title": "Stygian Defense Configs",
+  "stygiandefense.configuration.items": "Item List",
+  "stygiandefense.configuration.logDirtBlock": "Log Dirt Block",
+  "stygiandefense.configuration.magicNumberIntroduction": "Magic Number Text",
+  "stygiandefense.configuration.magicNumber": "Magic Number"
+}
